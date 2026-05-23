@@ -1,0 +1,6 @@
+-- Active: 1779529999914@@127.0.0.1@5432
+asgiref==3.11.1
+djangorestframework==3.17.1
+sqlparse==0.5.5
+Django==5.2.1
+psycopg2-binary==2.9.9
