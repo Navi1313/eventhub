@@ -115,3 +115,6 @@ Example terminal output:
 INFO POST /api/reservations/ - 201 - 0.04s
 INFO GET /api/events/ - 200 - 0.01s
 ```
+
+## Postman Screenshots
+Go to screenshots folder and see all the api calls 
